@@ -1,0 +1,2972 @@
+[
+  {
+    "pmid": "41508867",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42636177",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13505444",
+    "fulltext_characters": 38753,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42696851",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42843702",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42576382",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42826871",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42814822",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13626061",
+    "fulltext_characters": 60313,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42431275",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42413718",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42264200",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42805538",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42753700",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42742862",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42549915",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13556238",
+    "fulltext_characters": 44842,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42679037",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "42385484",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42807847",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13617997",
+    "fulltext_characters": 50525,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42807418",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13618001",
+    "fulltext_characters": 50014,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42633271",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13499481",
+    "fulltext_characters": 53748,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42614544",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13482353",
+    "fulltext_characters": 48409,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42431107",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42665691",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42645676",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42629368",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42540688",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13426208",
+    "fulltext_characters": 54306,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42603217",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42595291",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42573834",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42702606",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13547379",
+    "fulltext_characters": 125723,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42581976",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13456078",
+    "fulltext_characters": 36081,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42592486",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13464070",
+    "fulltext_characters": 72396,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42358517",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "42172090",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13336040",
+    "fulltext_characters": 47036,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41985415",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41791327",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42529444",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13416854",
+    "fulltext_characters": 998,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42455185",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13649803",
+    "fulltext_characters": 86825,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42090905",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42410175",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://www.nature.com/articles/s41598-026-60979-9?error=cookies_not_supported&code=18180fe8-dfac-46d0-8816-8b7be17a5933",
+    "fulltext_characters": 33351,
+    "manual_focus": true,
+    "acquisition_note": "出版社正文已核实"
+  },
+  {
+    "pmid": "42275589",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13263079",
+    "fulltext_characters": 38556,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42140328",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42127733",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13196451",
+    "fulltext_characters": 36216,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41724309",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42454046",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13365181",
+    "fulltext_characters": 54101,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42445245",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13358193",
+    "fulltext_characters": 56870,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42228575",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13589288",
+    "fulltext_characters": 88163,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42321159",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13433802",
+    "fulltext_characters": 90654,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42315153",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42303881",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13550267",
+    "fulltext_characters": 35023,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42277649",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13523248",
+    "fulltext_characters": 53425,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42276981",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13478519",
+    "fulltext_characters": 41218,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42327790",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13278877",
+    "fulltext_characters": 77537,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42243969",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13455264",
+    "fulltext_characters": 60229,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42281170",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13260675",
+    "fulltext_characters": 50518,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42082761",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42067098",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42032366",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13246444",
+    "fulltext_characters": 55895,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42030693",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41833707",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41559481",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42218427",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13430810",
+    "fulltext_characters": 32375,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42133812",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13187814",
+    "fulltext_characters": 44050,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42126535",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13337986",
+    "fulltext_characters": 40547,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42187511",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13225455",
+    "fulltext_characters": 35820,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42121010",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13374305",
+    "fulltext_characters": 59370,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42085165",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "42106526",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13323476",
+    "fulltext_characters": 23661,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "42103688",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41728772",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41610968",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "42043444",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41692399",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41991932",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13201734",
+    "fulltext_characters": 48307,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41956987",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13187021",
+    "fulltext_characters": 62029,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41735227",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41175920",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41969441",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13067009",
+    "fulltext_characters": 46394,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41862454",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13039259",
+    "fulltext_characters": 41563,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41851079",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13000205",
+    "fulltext_characters": 1777,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41869016",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13002807",
+    "fulltext_characters": 81514,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41787404",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13088626",
+    "fulltext_characters": 78966,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41764178",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13065994",
+    "fulltext_characters": 62262,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41633065",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41699661",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13011555",
+    "fulltext_characters": 65015,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41645250",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC13122995",
+    "fulltext_characters": 26027,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41636018",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12869270",
+    "fulltext_characters": 37959,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41467352",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12822780",
+    "fulltext_characters": 47015,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41455833",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41380809",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41311630",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "40946112",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "41694574",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12905645",
+    "fulltext_characters": 47249,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41685312",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12891137",
+    "fulltext_characters": 58737,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41550764",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12803925",
+    "fulltext_characters": 52680,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41540352",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12892751",
+    "fulltext_characters": 29009,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41499488",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12778038",
+    "fulltext_characters": 72136,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41507133",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12876961",
+    "fulltext_characters": 70685,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41501889",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12870259",
+    "fulltext_characters": 64388,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41144699",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12786336",
+    "fulltext_characters": 69568,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41344331",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709618/",
+    "fulltext_characters": 100364,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41408025",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12848064",
+    "fulltext_characters": 40623,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41426311",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12714669",
+    "fulltext_characters": 33904,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41472140",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12737480",
+    "fulltext_characters": 20619,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41476650",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12752639",
+    "fulltext_characters": 59833,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40934368",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40742092",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41316475",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12664269",
+    "fulltext_characters": 60028,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41310903",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12661735",
+    "fulltext_characters": 54734,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41341045",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12670317",
+    "fulltext_characters": 74228,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41291301",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12647510",
+    "fulltext_characters": 57757,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41254488",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12625234",
+    "fulltext_characters": 45322,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41203621",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12594761",
+    "fulltext_characters": 59249,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41198892",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12592533",
+    "fulltext_characters": 26899,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41124733",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41215575",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41175705",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41135420",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41082000",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "41189569",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12581918",
+    "fulltext_characters": 37604,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41148485",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12569318",
+    "fulltext_characters": 40453,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41120124",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12551508",
+    "fulltext_characters": 8743,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "41112236",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12528087",
+    "fulltext_characters": 27470,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40473182",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40999468",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12465154",
+    "fulltext_characters": 37737,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40749657",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40602674",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40949982",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12424707",
+    "fulltext_characters": 40043,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40936438",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40878991",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40540648",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12479129",
+    "fulltext_characters": 70391,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40123006",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12432206",
+    "fulltext_characters": 52829,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40817062",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12355746",
+    "fulltext_characters": 47122,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40881352",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12380694",
+    "fulltext_characters": 60968,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40794120",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12343685",
+    "fulltext_characters": 45263,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40779453",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12333955",
+    "fulltext_characters": 49411,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40729677",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12376557",
+    "fulltext_characters": 65365,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40615576",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12331902",
+    "fulltext_characters": 67100,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40860183",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12374829",
+    "fulltext_characters": 48715,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40889597",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40300667",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40132530",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40107603",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40521666",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12168070",
+    "fulltext_characters": 61047,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40461504",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12134272",
+    "fulltext_characters": 96377,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39089619",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12147631",
+    "fulltext_characters": 47393,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40368770",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40448263",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12123832",
+    "fulltext_characters": 26435,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40389420",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12089488",
+    "fulltext_characters": 36096,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40374962",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12081795",
+    "fulltext_characters": 41733,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40344913",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12136837",
+    "fulltext_characters": 23381,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40362562",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12072506",
+    "fulltext_characters": 26047,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40487658",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12144967",
+    "fulltext_characters": 63848,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40324967",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12052513",
+    "fulltext_characters": 33672,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39836947",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40301349",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12041575",
+    "fulltext_characters": 51677,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40261924",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12054813",
+    "fulltext_characters": 52563,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40245789",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12020886",
+    "fulltext_characters": 29838,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40193598",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12012521",
+    "fulltext_characters": 44786,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40303290",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12035897",
+    "fulltext_characters": 41002,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40226364",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11992624",
+    "fulltext_characters": 20518,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40197308",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11977892",
+    "fulltext_characters": 34361,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40169553",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11962090",
+    "fulltext_characters": 44391,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40045031",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11957992",
+    "fulltext_characters": 97179,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39985269",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12005778",
+    "fulltext_characters": 72689,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39699778",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39933987",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39353818",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40158090",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11955120",
+    "fulltext_characters": 42412,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40138394",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11939041",
+    "fulltext_characters": 56363,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40138393",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11939035",
+    "fulltext_characters": 60425,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40119353",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11929334",
+    "fulltext_characters": 47629,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40108127",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11923244",
+    "fulltext_characters": 38725,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40109769",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11920766",
+    "fulltext_characters": 30897,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40098076",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11917036",
+    "fulltext_characters": 25181,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "40035540",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40038243",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11880361",
+    "fulltext_characters": 42238,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39909291",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39271624",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11790786",
+    "fulltext_characters": 62039,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39982985",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11844725",
+    "fulltext_characters": 71715,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39948547",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11827380",
+    "fulltext_characters": 29248,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39945932",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11825422",
+    "fulltext_characters": 34891,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39939141",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11822433",
+    "fulltext_characters": 51182,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39923057",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11806784",
+    "fulltext_characters": 22129,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39905540",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11792579",
+    "fulltext_characters": 61837,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39817252",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11732740",
+    "fulltext_characters": 42906,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39732360",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39607798",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39453784",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40530969",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "40318699",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC12198039",
+    "fulltext_characters": 6794,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39633518",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39467076",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39725720",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11671434",
+    "fulltext_characters": 67673,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39702283",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11660852",
+    "fulltext_characters": 27002,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39676018",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39648231",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11625704",
+    "fulltext_characters": 42504,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39640362",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11617596",
+    "fulltext_characters": 70075,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39556689",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11653668",
+    "fulltext_characters": 65578,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39506072",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11628400",
+    "fulltext_characters": 72174,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38716745",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39529018",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11552140",
+    "fulltext_characters": 34707,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39482983",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11528131",
+    "fulltext_characters": 34023,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39390256",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39392166",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11935563",
+    "fulltext_characters": 57070,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39513105",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11540504",
+    "fulltext_characters": 19757,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39394182",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11468200",
+    "fulltext_characters": 54375,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39363363",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11451012",
+    "fulltext_characters": 51251,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39038928",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11447888",
+    "fulltext_characters": 41933,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39024555",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38879723",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11445560",
+    "fulltext_characters": 49195,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38287502",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39293390",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11525028",
+    "fulltext_characters": 71781,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "39251905",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11382515",
+    "fulltext_characters": 28956,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38990269",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38724075",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38621468",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38922788",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11348116",
+    "fulltext_characters": 38708,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38820741",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11317219/",
+    "fulltext_characters": 20419,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38810917",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "39085201",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11291975",
+    "fulltext_characters": 60477,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38816990",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38692194",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11070927",
+    "fulltext_characters": 42799,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38826095",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11145023",
+    "fulltext_characters": 30581,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38583415",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11002668",
+    "fulltext_characters": 70902,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38762546",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11102450",
+    "fulltext_characters": 44647,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38726177",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11079091",
+    "fulltext_characters": 29292,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38689229",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC11059654",
+    "fulltext_characters": 18699,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38409918",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "38409550",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11092965/",
+    "fulltext_characters": 35542,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38110168",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38041497",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10984107",
+    "fulltext_characters": 42042,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38585770",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "38128791",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38407929",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10962679",
+    "fulltext_characters": 62036,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38381411",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10893899",
+    "fulltext_characters": 44442,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38312597",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10835180",
+    "fulltext_characters": 32252,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38410432",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "38246918",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10800354",
+    "fulltext_characters": 46757,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38243170",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10799409",
+    "fulltext_characters": 36173,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38233839",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10795323",
+    "fulltext_characters": 44732,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38215194",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10786415",
+    "fulltext_characters": 50612,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38182571",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10770081",
+    "fulltext_characters": 48669,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38167491",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10759761",
+    "fulltext_characters": 29080,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38065232",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38056132",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37926318",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37948132",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10898813",
+    "fulltext_characters": 24128,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "38060683",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37955115",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "38058058",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "36908042",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10026876",
+    "fulltext_characters": 32862,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37914704",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10620198",
+    "fulltext_characters": 44755,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37908024",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10619305",
+    "fulltext_characters": 771,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37818745",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10646273",
+    "fulltext_characters": 59572,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37716414",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10591715/",
+    "fulltext_characters": 22695,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37816771",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10564894",
+    "fulltext_characters": 50892,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37467885",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37307924",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37277492",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10545831/",
+    "fulltext_characters": 50495,
+    "manual_focus": true,
+    "acquisition_note": "出版社正文已核实"
+  },
+  {
+    "pmid": "36879181",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37497776",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10484679",
+    "fulltext_characters": 69344,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37328448",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10427357",
+    "fulltext_characters": 46656,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35877022",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37463108",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37156457",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "37484809",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10357443",
+    "fulltext_characters": 31243,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37166968",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10287925",
+    "fulltext_characters": 450,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37349316",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10287700",
+    "fulltext_characters": 86687,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37322549",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10268562",
+    "fulltext_characters": 42836,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37128278",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10148080",
+    "fulltext_characters": 31898,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "37237981",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10215874",
+    "fulltext_characters": 46871,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36939377",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "36882514",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156899/",
+    "fulltext_characters": 72367,
+    "manual_focus": true,
+    "acquisition_note": "出版社正文已核实"
+  },
+  {
+    "pmid": "36898834",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10146489/",
+    "fulltext_characters": 91466,
+    "manual_focus": true,
+    "acquisition_note": "出版社正文已核实"
+  },
+  {
+    "pmid": "37095515",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC10123986",
+    "fulltext_characters": 1466,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36731737",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "36765042",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9918514",
+    "fulltext_characters": 52150,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36609449",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9817303",
+    "fulltext_characters": 46043,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36522719",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9753290",
+    "fulltext_characters": 58037,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36568518",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9755708",
+    "fulltext_characters": 22693,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35801907",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9638909",
+    "fulltext_characters": 60469,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36229652",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9561654",
+    "fulltext_characters": 347,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36068299",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9448771",
+    "fulltext_characters": 44223,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "36149760",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9505754",
+    "fulltext_characters": 50880,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35986334",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9389688",
+    "fulltext_characters": 32408,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35978332",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9387035",
+    "fulltext_characters": 64903,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35978804",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9376478",
+    "fulltext_characters": 21702,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35967285",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9366180",
+    "fulltext_characters": 37539,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35852833",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9416547",
+    "fulltext_characters": 65784,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35937804",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9352860",
+    "fulltext_characters": 36474,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35834140",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "35754228",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "35522942",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC9076013",
+    "fulltext_characters": 54129,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "35210604",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8989979/",
+    "fulltext_characters": 58669,
+    "manual_focus": true,
+    "acquisition_note": "出版社正文已核实"
+  },
+  {
+    "pmid": "35138696",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8922123",
+    "fulltext_characters": 34076,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "34513300",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8413676",
+    "fulltext_characters": 43706,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "34605570",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "34362389",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8344148",
+    "fulltext_characters": 38146,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "34395433",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8363255",
+    "fulltext_characters": 48972,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "34141066",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "34094911",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8170476",
+    "fulltext_characters": 44837,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "34084768",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8168469",
+    "fulltext_characters": 46366,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "33941767",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8093205",
+    "fulltext_characters": 12836,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "33755251",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8162599",
+    "fulltext_characters": 14103,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "33953754",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC8057913",
+    "fulltext_characters": 25616,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "33425753",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC7793641",
+    "fulltext_characters": 27203,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "32638257",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "32529496",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "32112098",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC7144926",
+    "fulltext_characters": 61234,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "31279531",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "31491951",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC6770127",
+    "fulltext_characters": 35750,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "31239781",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC6559146",
+    "fulltext_characters": 35903,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "30550783",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "30522174",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": true,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "30165671",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC6182161",
+    "fulltext_characters": 54861,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "29970603",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6331045/",
+    "fulltext_characters": 41412,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "29634924",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "29703891",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC5923383",
+    "fulltext_characters": 71840,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "29563811",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC5848665",
+    "fulltext_characters": 12904,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "28880216",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC5618573",
+    "fulltext_characters": 25861,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "28859621",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC5579925",
+    "fulltext_characters": 29019,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "27993683",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "27830005",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "26882543",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC4772976",
+    "fulltext_characters": 62410,
+    "manual_focus": false,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "25653167",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://europepmc.org/articles/PMC4344512",
+    "fulltext_characters": 66633,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "25411247",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "PMC正文接口未返回正文"
+  },
+  {
+    "pmid": "25174749",
+    "fulltext": false,
+    "scope": "仅题名与元数据",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "24786082",
+    "fulltext": true,
+    "scope": "正文结构化核对",
+    "fulltext_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4246063/",
+    "fulltext_characters": 11603,
+    "manual_focus": true,
+    "acquisition_note": "正文XML已获取"
+  },
+  {
+    "pmid": "19303003",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  },
+  {
+    "pmid": "17180247",
+    "fulltext": false,
+    "scope": "摘要核对",
+    "fulltext_source": null,
+    "fulltext_characters": 0,
+    "manual_focus": false,
+    "acquisition_note": "未找到可获取的完整正文；已尝试出版社链接"
+  }
+]
